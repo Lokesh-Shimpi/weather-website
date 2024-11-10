@@ -1,0 +1,27 @@
+/* WeatherCard.css */
+.weather-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+  }
+  
+  .weather-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .weather-info p {
+    font-size: 1rem;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .weather-info strong {
+    color: #3498db;
+  }
+  
